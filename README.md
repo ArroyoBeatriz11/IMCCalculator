@@ -1,2 +1,2 @@
-# Ejemplo
-ejemplo
+# IMC-calculator
+explicacion blabla
